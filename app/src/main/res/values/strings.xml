@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mini game</string>
+    <string name="bt_startgame">Начать заново</string>
+</resources>
